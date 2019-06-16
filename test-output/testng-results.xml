@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="39359" started-at="2019-06-16T01:03:18Z" finished-at="2019-06-16T01:03:57Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="39359" started-at="2019-06-16T01:03:18Z" finished-at="2019-06-16T01:03:57Z">
+      <class name="TestNG.verify">
+        <test-method status="PASS" signature="verifysite()[pri:0, instance:TestNG.verify@55f3ddb1]" name="verifysite" duration-ms="39329" started-at="2019-06-16T01:03:18Z" finished-at="2019-06-16T01:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysite -->
+      </class> <!-- TestNG.verify -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
